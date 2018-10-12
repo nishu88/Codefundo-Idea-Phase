@@ -64,7 +64,7 @@ The idea of characteristic earthquakes was the basis of the Parkfield prediction
 Earthquake prediction is an immature science—it has not yet led to a successful prediction of an earthquake from first physical principles. Research into methods of prediction therefore focus on empirical analysis, with two general approaches: either identifying distinctive precursors to earthquakes, or identifying some kind of geophysical trend or pattern in seismicity that might precede a large earthquake.
 We would predict earthquakes in 2 stages:-
 
-•	**Trend analysis** of earth quakes using datasets available on reliable sites. Gain enough data on earthquakes for 2 – 5 decades in past. And apply Machine learning algorithms on the dataset. (**prediction years before the actual earthquake happens.**)
+•	**Trend analysis** of earth quakes using datasets available on reliable sites. Gain enough data on earthquakes for 2 – 5 decades in past. And apply **Machine learning algorithms** on the dataset. (**prediction years before the actual earthquake happens.**)
 
 •	With the help of scientifically proven precursors like **Animal behavior**(low frequency P-waves), **Dilatancy–diffusion**(Detection of variations in the relative velocities of the primary and secondary seismic waves), **Changes in Vp/Vs** -(**prediction minutes before the earthquake.**)
 
