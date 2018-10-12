@@ -36,7 +36,7 @@ https://data.gov.in/keywords/earthquake  - One of the source for the data.
 
 https://www.kaggle.com/nksingh673/earthquake-indian-subcontinent Dataset 
 
-https://www.kaggle.com/usgs/earthquake -database Dataset
+https://www.kaggle.com/usgs/earthquake -Database/Dataset
 
 ## Machine Learning Approach:-
 Thinking of the ML model, it consists of **multilayers of Convolution Layer and MaxPooling layer** with their respective hyperparameters such as Activation function, input nodes. 
