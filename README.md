@@ -82,3 +82,8 @@ We would predict earthquakes in 2 stages:-
 •	**Twitter Sentiment Analysis** to map out the more affected areas and make sure which areas require more help.
 
 •	**Setup basic communication** required across help channels by indicating knocked out Cell towers on an area map. (Because communication is key in responding to requests and saving lives.)
+
+## Impact:-
+
+Currently concentrating on the **Indian subcontinent** (1.7 billion in population(2015)).
+Once we get a working model its easy to extend to other parts of the world
