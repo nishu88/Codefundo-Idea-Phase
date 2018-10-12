@@ -51,3 +51,34 @@ https://www.ditrianum.org/
 https://world-earthquakes.com/
 
 No prediction is accurate. We constantly need more data to improve our prediction.
+
+## Proof of Concept:-
+
+The idea of characteristic earthquakes was the basis of the Parkfield prediction: fairly similar earthquakes in 1857, 1881, 1901, 1922, 1934, and 1966 suggested a pattern of breaks every 21.9 years, with a standard deviation of ±3.1 years. Extrapolation from the 1966 event led to a prediction of an earthquake around 1988, or before 1993 at the latest (at the 95% confidence interval). The appeal of such a method is that the prediction is derived entirely from the trend, which supposedly accounts for the unknown and possibly unknowable earthquake physics and fault parameters. However, in the Parkfield case the predicted earthquake did not occur until 2004, a decade late. This seriously undercuts the claim that earthquakes at Parkfield are quasi-periodic, and suggests the individual events differ sufficiently in other respects to question whether they have distinct characteristics in common. 
+
+**(If predicted accurately quarter million lives could’ve been saved back in 2004. )**
+
+
+## Expected Result :-
+
+Earthquake prediction is an immature science—it has not yet led to a successful prediction of an earthquake from first physical principles. Research into methods of prediction therefore focus on empirical analysis, with two general approaches: either identifying distinctive precursors to earthquakes, or identifying some kind of geophysical trend or pattern in seismicity that might precede a large earthquake.
+We would predict earthquakes in 2 stages:-
+
+•	**Trend analysis** of earth quakes using datasets available on reliable sites. Gain enough data on earthquakes for 2 – 5 decades in past. And apply Machine learning algorithms on the dataset. (**prediction years before the actual earthquake happens.**)
+
+•	With the help of scientifically proven precursors like **Animal behavior**(low frequency P-waves), **Dilatancy–diffusion**(Detection of variations in the relative velocities of the primary and secondary seismic waves), **Changes in Vp/Vs** -(**prediction minutes before the earthquake.**)
+
+**Predictions even 10 min before earthquakes can save thousands of lives. They’d get enough time to vacate buildings and reach safe distance.**
+
+
+## Post Disaster :-
+
+•	Awareness of Rescue camps setup around the affected areas will be available on an **Disaster-relief application**.
+
+•	This app downloads the map of User's surroundings within a radius of 10 km from google maps for the **offline use** and prepares for the worst whenever connected to the internet. (doesn’t require a reliable internet connection 24/7)
+
+•	**SOS distress 24/7 helpline** with **load balancer** for peak hours which redirects calls to different numbers who are all willing to help.
+
+•	**Twitter Sentiment Analysis** to map out the more affected areas and make sure which areas require more help.
+
+•	**Setup basic communication** required across help channels by indicating knocked out Cell towers on an area map. (Because communication is key in responding to requests and saving lives.)
