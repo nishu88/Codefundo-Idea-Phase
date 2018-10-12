@@ -42,7 +42,7 @@ https://www.kaggle.com/usgs/earthquake -Database/Dataset
 Thinking of the ML model, it consists of **multilayers of Convolution Layer and MaxPooling layer** with their respective hyperparameters such as Activation function, input nodes. 
 When it comes to the part of training, usage of **GridSearch model** come into play. 
 For GridSearch model, pass the first parameter as the model, second parameter as ParameterGrid with functions like batch_size, epochs, optimizer, momentum, decay, weight_constraints, etc. with their different set of values like 10, 20, 50, 100 as batch_size or SGD, Adadelta, Adamax as optimizers. 
-Then Grid Search model is fit with input train and input test values and obtain the set of values of hyperparameters used which has got highest accuracy. Using the obtained set of values of hyperparameters.
+Then Grid Search model is fit with input train and input test values and obtain the set of values of hyperparameters used which has got highest accuracy. Using the obtained set of values of hyperparameters, a prediction would be made.
 
 **Webscraping** popular earthquake predicting websites like :-
 
