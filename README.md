@@ -34,8 +34,20 @@ From the various source, the prediction of an earthquake must define 3 elements:
  
 https://data.gov.in/keywords/earthquake  - One of the source for the data.
 
-https://www.kaggle.com/nksingh673/earthquake-indian-subcontinent
+https://www.kaggle.com/nksingh673/earthquake-indian-subcontinent Dataset 
 
-Dataset https://www.kaggle.com/usgs/earthquake -database Dataset
+https://www.kaggle.com/usgs/earthquake -database Dataset
 
+## Machine Learning Approach:-
+Thinking of the ML model, it consists of **multilayers of Convolution Layer and MaxPooling layer** with their respective hyperparameters such as Activation function, input nodes. 
+When it comes to the part of training, usage of **GridSearch model** come into play. 
+For GridSearch model, pass the first parameter as the model, second parameter as ParameterGrid with functions like batch_size, epochs, optimizer, momentum, decay, weight_constraints, etc. with their different set of values like 10, 20, 50, 100 as batch_size or SGD, Adadelta, Adamax as optimizers. 
+Then Grid Search model is fit with input train and input test values and obtain the set of values of hyperparameters used which has got highest accuracy. Using the obtained set of values of hyperparameters.
 
+**Webscraping** popular earthquake predicting websites like :-
+
+https://www.ditrianum.org/
+
+https://world-earthquakes.com/
+
+No prediction is accurate. We constantly need more data to improve our prediction.
