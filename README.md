@@ -86,4 +86,4 @@ We would predict earthquakes in 2 stages:-
 ## Impact:-
 
 Currently concentrating on the **Indian subcontinent** (1.7 billion in population(2015)).
-Once we get a working model its easy to extend to other parts of the world
+Once we get a working model its easy to extend to other parts of the world.
